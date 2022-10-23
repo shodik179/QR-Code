@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ScanQR</string>
+    <string name="Login">Login</string>
+    <string name="qrcode">qrcode</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+    <string name="username">username</string>
+</resources>
