@@ -1,2 +1,3 @@
 # QR-Code
-<img src="input data/image.png">
+# Tampilan halaman Qrcode
+<img src="image.JPG" width="70%" height="70%" >
